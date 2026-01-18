@@ -37,7 +37,7 @@ Navigate to Setup > Object Manager > Account > Validation Rules and create valid
 2. Fill in:
    - Connected App Name: Validation Rules Manager
    - API Name: Validation_Rules_Manager
-   - Contact Email: your-email@example.com
+   - Contact Email: mdfaizakra552003@gmail.com
 3. Enable OAuth Settings:
    - Callback URL: `http://localhost:3000` (for development) and your deployed URL
    - Selected OAuth Scopes: Access and manage your data (api), Perform requests on your behalf at any time (refresh_token), Access your basic information (id), Access custom permissions (web)
@@ -108,13 +108,7 @@ Salesforce APIs support CORS for web applications. Make sure your Connected App 
 - Axios (HTTP client)
 - Salesforce REST APIs
 
-## Submission
 
-- Git Repository: [Link to your repo]
-- Deployed Application: [Link to deployed app]
-- Resume: Updated with this project
-
-Send all links to careers@cloudvandana.com
 
 ### Analyzing the Bundle Size
 
