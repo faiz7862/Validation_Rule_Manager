@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faiz7862/Validation_Rule_Manager.git/static/css/main.e6c13ad2.css",
+    "main.js": "/faiz7862/Validation_Rule_Manager.git/static/js/main.75aed50b.js",
+    "static/js/453.4ba5c97e.chunk.js": "/faiz7862/Validation_Rule_Manager.git/static/js/453.4ba5c97e.chunk.js",
+    "index.html": "/faiz7862/Validation_Rule_Manager.git/index.html",
+    "main.e6c13ad2.css.map": "/faiz7862/Validation_Rule_Manager.git/static/css/main.e6c13ad2.css.map",
+    "main.75aed50b.js.map": "/faiz7862/Validation_Rule_Manager.git/static/js/main.75aed50b.js.map",
+    "453.4ba5c97e.chunk.js.map": "/faiz7862/Validation_Rule_Manager.git/static/js/453.4ba5c97e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.75aed50b.js"
+  ]
+}
